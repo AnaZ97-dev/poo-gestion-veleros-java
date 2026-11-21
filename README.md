@@ -1,5 +1,7 @@
 # Programación Orientada a Objetos: Gestión de Veleros (Java)
 
+> **Nota:** Este proyecto utiliza una librería externa (`libtarea3.jar`) que contiene la clase `Velero`. Para compilar y ejecutar el proyecto, asegúrate de añadir esta librería al *classpath* de tu IDE (NetBeans).
+
 Proyecto de programación en Java que aplica los principios de la **Programación Orientada a Objetos (POO)** para la gestión de una flota de veleros. El proyecto simula la creación de barcos, la navegación, la competición en regatas y el control de su estado.
 
 ## 🛠️ Tecnologías y Herramientas
